@@ -1,5 +1,3 @@
-# rage-bait
-coding student goofy ragebait
 <!DOCTYPE html>
 <html>
 <head>
